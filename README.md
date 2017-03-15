@@ -4,7 +4,7 @@ Java数据操作工具类，反射机制查询记录
 ------
 
 ##Installation
-- Copy JDBCUtil.java your project and rename the package
+- Copy JDBCUtil.java to your project and rename the package name
 
 ------
 ##Usage
